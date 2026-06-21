@@ -43,7 +43,4 @@ Spotify-Home-page/
 ├── index.html
 ├── style.css
 └── README.md
-```   <img width="1875" height="949" alt="image" src="https://github.com/user-attachments/assets/5a108edb-8b1e-46fd-aeb6-def182a27a8f" />
-
-<img width="1884" height="951" alt="image" src="https://github.com/user-attachments/assets/b73305d9-16a9-4c21-aa75-b263fee4440c" />
 
